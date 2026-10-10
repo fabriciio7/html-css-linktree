@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,6 +52,6 @@ a {
     transition-duration: 200ms;
 }
 
-a:hover{
-    background-color: orangered;
+a:hover {
+    background-color: green;
 }
